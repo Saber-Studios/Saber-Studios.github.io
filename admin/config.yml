@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Saber-Studios/Saber-Studios.github.io
+  repo: saber-studios/saber-studios.github.io
   branch: main   # or master
   auth_type: implicit  
   squash_merges: true
