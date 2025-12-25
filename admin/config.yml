@@ -5,7 +5,7 @@ backend:
   auth_type: implicit  
   squash_merges: true
   client_id: Ov23liTEEvIln92HJCxZ
-  base_url: https://github.com
+  # base_url: https://github.com
   auth_endpoint: /login/oauth/authorize
 
 site_url: https://saber-studios.github.io/
