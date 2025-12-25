@@ -3,6 +3,7 @@ backend:
   repo: saber-studios/saber-studios.github.io
   branch: main   # or master  
   client_id: Ov23liTEEvIln92HJCxZ
+  base_url: https://sveltia-cms-auth.quint-john.workers.dev/
 
 site_url: https://saber-studios.github.io
 
