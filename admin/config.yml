@@ -7,8 +7,8 @@ backend:
 
 site_url: https://saber-studios.github.io
 
-media_folder: "/assets/uploads"
-public_folder: "/assets/uploads"
+media_folder: "/assets/upload"
+public_folder: "/assets/upload"
 
 collections:
   - name: "posts"
