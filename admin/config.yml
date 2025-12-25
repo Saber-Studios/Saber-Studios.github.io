@@ -3,6 +3,10 @@ backend:
   repo: Saber-Studios/Saber-Studios.github.io
   branch: main   # or master
   squash_merges: true
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+site_url: https://saber-studios.github.io/
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
