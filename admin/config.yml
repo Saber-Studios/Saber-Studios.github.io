@@ -2,9 +2,11 @@ backend:
   name: github
   repo: Saber-Studios/Saber-Studios.github.io
   branch: main   # or master
+  auth_type: implicit  
   squash_merges: true
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  client_id: Ov23liTEEvIln92HJCxZ
+  base_url: https://github.com
+  auth_endpoint: /login/oauth/authorize
 
 site_url: https://saber-studios.github.io/
 
