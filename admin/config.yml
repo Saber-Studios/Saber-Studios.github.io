@@ -4,7 +4,6 @@ backend:
   branch: main   # or master
   auth_type: implicit  
   client_id: Ov23liTEEvIln92HJCxZ
-  auth_endpoint: /login/oauth/authorize
 
 site_url: https://saber-studios.github.io
 
