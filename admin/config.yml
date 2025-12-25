@@ -3,9 +3,7 @@ backend:
   repo: saber-studios/saber-studios.github.io
   branch: main   # or master
   auth_type: implicit  
-  squash_merges: true
   client_id: Ov23liTEEvIln92HJCxZ
-  base_url: https://github.com
   auth_endpoint: /login/oauth/authorize
 
 site_url: https://saber-studios.github.io
