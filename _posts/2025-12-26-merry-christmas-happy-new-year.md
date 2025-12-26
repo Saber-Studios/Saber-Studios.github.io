@@ -6,7 +6,7 @@ categories:
 tags:
   - projects, modding
 image:
-  path: /assets/upload/XMASBlack400PX.png
+  path: /assets/upload/XMASBlackHeader.png
 pin_order: 0
 ---
 # Introducing Our Latest Project: Farm Simulator 25 Enhancements
