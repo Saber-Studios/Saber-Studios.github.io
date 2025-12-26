@@ -5,6 +5,8 @@ categories:
   - Blog, Intro
 tags:
   - projects, modding
+image:
+  path: /assets/upload/XMASBlack400PX.png
 pin_order: 0
 ---
 # Introducing Our Latest Project: Farm Simulator 25 Enhancements
@@ -20,8 +22,5 @@ As Saber Studios, we're excited to announce our latest project: enhancing the Fa
 
 Our development process will prioritize modding-friendly design, ensuring that our enhancements can be easily installed and updated by players. Stay tuned for regular updates on our progress
 
-## Happy Holidays!
-
-![](/assets/upload/XMASBlack400PX.png)
 
 **Merry Christmas and Happy New Year!**
