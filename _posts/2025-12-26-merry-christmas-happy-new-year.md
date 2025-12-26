@@ -1,6 +1,11 @@
 ---
 title: Merry Christmas & Happy New Year!
-date: 2025-12-26T15:05:00
+date: 2025-12-26T15:45:00
+categories:
+  - Blog, Intro
+tags:
+  - projects, modding
+pin_order: 0
 ---
 # Introducing Our Latest Project: Farm Simulator 25 Enhancements
 
@@ -8,13 +13,15 @@ As Saber Studios, we're excited to announce our latest project: enhancing the Fa
 
 ## Key Features:
 
-- \*\*Custom-Built GPS System:\*\* Integrating seamlessly with the game's existing navigation framework.
+- \*\*GPS Screen System:\*\* Integrating gps screens for navigation
 - \*\*Additional Screens:\*\* Providing critical information at-a-glance, improving gameplay efficiency and reducing clutter.
 
 ## Project Status:
 
-Our development process will prioritize modding-friendly design, ensuring that our enhancements can be easily installed and updated by players. Stay tuned for regular updates on our progress!
+Our development process will prioritize modding-friendly design, ensuring that our enhancements can be easily installed and updated by players. Stay tuned for regular updates on our progress
 
-## Stay Tuned!
+## Happy Holidays!
 
-Thank you for considering joining our community!
+![](/assets/upload/XMASBlack400PX.png)
+
+**Merry Christmas and Happy New Year!**
