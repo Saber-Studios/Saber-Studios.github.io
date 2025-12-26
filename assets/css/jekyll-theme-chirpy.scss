@@ -1,0 +1,17 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+@import url('https://fonts.cdnfonts.com/css/solid-stencil-2023');
+
+#sidebar .site-title {
+  font-family: 'Solid Stencil 2023', sans-serif;
+  }
