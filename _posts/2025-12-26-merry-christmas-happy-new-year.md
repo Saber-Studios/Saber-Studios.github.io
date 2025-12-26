@@ -1,10 +1,8 @@
 ---
 title: Merry Christmas & Happy New Year!
 date: 2025-12-26T15:45:00
-categories:
-  - [Blog, Intro]
-tags:
-  - [projects, modding]
+categories: [Blog, Intro]
+tags: [projects, modding]
 image:
   path: /assets/upload/XMASBlackHeader.png
 pin_order: 0
