@@ -19,18 +19,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
-        allow_add: true
-        required: true
-        hint: "Select or add categories"
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        allow_add: true
-        required: false
-        hint: "Select or add tags"
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Pin Order"
         name: "pin_order"
