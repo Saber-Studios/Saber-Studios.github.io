@@ -19,7 +19,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Featured image", name: "feature_image", widget: "image", required: false }
       - { label: "Description for SEO", name: "description", widget: "string", required: false }
       - { label: "Categories", name: "categories", widget: "list", required: false, field: { name: text, label: Text, widget: string } }
       - { label: "Tags", name: "tags", widget: "list", required: false, field: { name: text, label: Text, widget: string }
